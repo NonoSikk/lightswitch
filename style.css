@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  display: flex;
+}
+button {
+  margin: auto;
+  padding: 2rem;
+  font-size: 2rem;
+  border: 3px solid black;
+  border-radius: 2rem;
+}
